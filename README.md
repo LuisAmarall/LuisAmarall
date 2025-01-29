@@ -1,54 +1,18 @@
-# Hello, World! 👋  
-Hi folks, I'm Luis Amaral. Welcome to my GitHub profile!  
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/LuisAmarall">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisamarall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/LuisAmarall">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisamarall&layout=compact&langs_count=6&theme=tokyonight"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-### 🚀 Tech Stack  
-<div>
-  <a href="https://github.com/LuisAmarall">
-    <img src="https://img.icons8.com/color/2x/C#.png" width="100" alt="C#">
-  </a>
-  <a href="https://github.com/LuisAmarall">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="100" alt="React Native">
-  </a>
-  <a href="https://github.com/LuisAmarall">
-    <img src="https://img.icons8.com/color/2x/ASP.Net.png" width="100" alt="ASP.NET">
-  </a>
-  <a href="https://github.com/LuisAmarall">
-    <img src="https://img.icons8.com/color/2x/Blazor.png" width="100" alt="Blazor">
-  </a>
-  <a href="https://github.com/LuisAmarall">
-    <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="100" alt="JavaScript">
-  </a>
-  <a href="https://github.com/LuisAmarall">
-    <img src="https://img.icons8.com/color/2x/bootstrap.png" width="100" alt="Bootstrap">
-  </a>
-  <a href="https://github.com/LuisAmarall">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="100" alt="Azure">
-  </a>
-</div>
-
-### 📊 Custom Tech Usage (Mock Data)  
-> 🚨 *The language usage chart below is a manually created representation and does not reflect GitHub stats directly.*  
-
-```plaintext
-███████████████████████████████████████████████████  56.41%   C#
-██████████████████████████                           24.40%   ASP.NET
-███████                                              10.00%   Azure
-██                                                   4.59%   Blazor
-██                                                   4.59%   Bootstrap
+# 💫 About Me:
+🚀 Luis Amaral | Full Stack Developer<br>💻 Sobre mim<br>Sou um desenvolvedor Full Stack com foco em Back-End, apaixonado por tecnologia e inovação. Minha principal stack inclui C#, ASP.NET, Blazor, Bootstrap e Azure, sempre buscando criar aplicações performáticas, escaláveis e seguras.<br><br>Com 2 anos de estudo contínuo e 1 ano de faculdade, trilho um caminho de evolução constante, explorando novas tecnologias e aprimorando minhas habilidades para entregar código de alta qualidade. Minha jornada é marcada por foco, determinação e proatividade, características que me impulsionam a enfrentar desafios e aprender algo novo todos os dias.<br><br>⚡ Minha Filosofia<br>🔹 Código limpo e escalável: Sempre estruturando soluções eficientes e bem documentadas.<br>🔹 Aprendizado contínuo: A tecnologia evolui, e eu evoluo junto com ela.<br>🔹 Proatividade: Não espero acontecer, eu faço acontecer.<br>🔹 Resiliência: Cada desafio é uma nova oportunidade de crescimento.<br><br>🚀 Tecnologias & Ferramentas<br>💡 Linguagem principal: C#<br>🔹 Frameworks: ASP.NET, Blazor<br>🎨 Front-end: Bootstrap<br>☁️ Cloud: Azure<br>📊 Banco de dados: SQL Server, Entity Framework Core<br><br>📈 Atualmente, estou me aprofundando ainda mais em arquitetura de software, design patterns e boas práticas de desenvolvimento, visando sempre melhorar a qualidade do código e a experiência do usuário.<br><br>🌍 Vamos conectar?<br>Se você quiser trocar uma ideia sobre tecnologia, desenvolvimento ou qualquer outro assunto, me chama! Estou sempre aberto a novas conexões e oportunidades.<br><br>📩 E-mail: olluisamaral@gmail.com<br>🔗 LinkedIn: Luis Amaral<br>📷 Instagram: @amaral23._<br><br>🚀 "O impossível é apenas uma questão de perspectiva."
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@amaral23._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Luis Amaral) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@olluisamaral@gmail.com) 
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LuisAmarall&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LuisAmarall&theme=graywhite&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAmarall&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=LuisAmarall&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
